@@ -4,8 +4,9 @@ title:  "In vitro to in silico"
 date:   2020-03-29 15:23:16 +0200
 categories: jekyll update
 ---
+## MIT OCW
 
-## Wybór zasobów z [repozytorium](https://ocw.mit.edu/index.htm) [Massachusetts Institute of Technology](http://www.mit.edu/) z materiałami do zdalnego nauczania.
+Wybór zasobów z [repozytorium](https://ocw.mit.edu/index.htm) [Massachusetts Institute of Technology](http://www.mit.edu/) z materiałami do zdalnego nauczania.
 
 ### Biologia
 
