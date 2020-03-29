@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "In vitro to in silico"
-date:   2019-09-18 16:11:16 +0200
+date:   2020-03-29 15:23:16 +0200
 categories: jekyll update
 ---
 
